@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="JavaHW130824:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaHW130824_jar</output-path>
+    <root id="root">
+      <element id="archive" name="JavaHW130824.jar">
+        <element id="module-output" name="JavaHW130824" />
+      </element>
+    </root>
+  </artifact>
+</component>
